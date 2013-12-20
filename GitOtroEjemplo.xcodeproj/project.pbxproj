@@ -460,6 +460,7 @@
 				8EB1D7EB186218A5002C4455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EB1D7EC186218A5002C4455 /* Build configuration list for PBXNativeTarget "GitOtroEjemploTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				8EB1D7EE186218A5002C4455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
