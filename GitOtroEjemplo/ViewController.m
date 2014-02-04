@@ -32,7 +32,7 @@ typedef void (^MiTipoBloque)(int);
     // Rellenamos el bloque con código
     mibloque = ^ void (int valor) {
         total += valor;
-        NSLog(@"Total: %d",total);
+        NSLog(@"Total: %d",total - 5);
     };
     
     // Ejecutamos varias veces el bloque para comprobar
