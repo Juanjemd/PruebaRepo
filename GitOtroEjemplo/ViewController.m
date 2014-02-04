@@ -41,6 +41,8 @@ typedef void (^MiTipoBloque)(int);
     mibloque(1);
     
     NSLog (@"Solo pongo un log");
+    
+    NSLog (@"pongo un log en el master local");
 }
 
 - (void)didReceiveMemoryWarning
