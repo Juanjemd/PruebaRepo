@@ -44,6 +44,8 @@ typedef void (^MiTipoBloque)(int);
     
     NSLog (@"pongo otro log");
     NSLog (@"pongo un log en el master local");
+    
+    NSLog (@"Para probar el source tree");
 }
 
 - (void)didReceiveMemoryWarning
