@@ -50,6 +50,8 @@ typedef void (^MiTipoBloque)(int);
     //NSLog (@"Para probar el source tree otra vez");
     
     NSLog(@"Estoy probando el sourceTree");
+    
+    NSLog(@"Otro log para conflicto en sourceTree");
 }
 
 - (void)didReceiveMemoryWarning
