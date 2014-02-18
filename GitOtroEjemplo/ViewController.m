@@ -51,7 +51,7 @@ typedef void (^MiTipoBloque)(int);
     
     NSLog(@"Estoy probando el sourceTree");
     
-    NSString *cadena = @"pongo algo";
+    NSString *cadena = @"pongo algo d d  ";
     
     NSLog(@"%@", cadena);
 }
