@@ -53,7 +53,7 @@ typedef void (^MiTipoBloque)(int);
     
     NSString *cadena = @"pongo algo";
     
-    NSLog(@"Otro log para conflicto en sourceTree");
+    NSLog(@"%@", cadena);
 }
 
 - (void)didReceiveMemoryWarning
