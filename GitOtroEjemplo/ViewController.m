@@ -72,6 +72,8 @@ typedef void (^MiTipoBloque)(int);
     NSLog(@"log desde origin");
     
      NSLog(@"log desde origin");
+    
+     NSLog(@"log desdedddddd origin");
 
 }
 @end
