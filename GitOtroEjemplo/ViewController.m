@@ -65,7 +65,11 @@ typedef void (^MiTipoBloque)(int);
 - (IBAction)clickBoton:(id)sender {
     
     NSLog(@"Click en el boton");
+
     
     NSLog(@"otro log");
+
+    NSLog(@"log desde origin");
+
 }
 @end
